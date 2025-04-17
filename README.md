@@ -11,6 +11,8 @@
 
 - В датасете столбец `label` отвечает за источник текста, где `_0_` - Human, а `_1_` - AI
 
+- Тексты написанные ИИ с меткой  `1` были взяты(сгенерированны) в ChatGPT-4o, ChatGPT-o1, ChatGPT-o3-mini-hight, GigaChat 2Pro, GigaChat 2Max, DeepSeek
+
 
 # Модель
 - Обученная модель сохранена в `ru-AI-detect-03.pt`
