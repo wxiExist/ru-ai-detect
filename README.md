@@ -52,3 +52,7 @@
 # Инференс
 - поднятие локального Gardio сервиса через `tun.py`
 ![alt text](image.png)
+
+## Пример отчета с статистическими признаками:
+![изображение](https://github.com/user-attachments/assets/d3eb070d-58e3-4fea-9e91-48da99f33003)
+
